@@ -1,0 +1,13 @@
+<table border="1">
+</table>
+<table border="1">
+<tr>
+<td>гаагаргар</td>
+<td> шашаршп</td>
+</tr>
+<th>агагагп</th>-заголовок
+<th colspan="3">рплпрл</th>-столбцы объединение
+<th rowspan="3'>hfjkfhgkfhgk</th>=строки объединение
+<table width="60%" height="300">
+align left center right
+valign top middle bottom
